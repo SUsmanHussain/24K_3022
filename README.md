@@ -5,4 +5,4 @@
 -Enrolled in Bachelors of Software Engineering in Fast University\
 -Currently learning C language\
 -Have a great command on Pseudocode\
--Worked on python\
+-Worked on python
