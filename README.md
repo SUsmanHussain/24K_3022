@@ -1,1 +1,2 @@
-This is to store all features related to my code
+### CS LAB 03
+## INTRODUCTION TO C LANGUAGE
