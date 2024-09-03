@@ -6,3 +6,6 @@
 -Currently learning C language\
 -Have a great command on Pseudocode\
 -Worked on python
+
+### CS LAB 03
+## INTRODUCTION TO C LANGUAGE
